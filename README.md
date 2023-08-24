@@ -16,3 +16,6 @@ The only code I still have:
 
 - instancing - render a moving mesh composed of two different PLY models (Stanford bunny and Suzzanne, compare between render each model in the mesh, instance them or do multidrawindirect which further reduces draw calls
 - computeshaders - implement a simple particle simulation through compute shaders
+
+-----
+The MIT license of this repository only affects to the GLframework and the assignment solutions, not on the depending libraries (GLM, GLEW, SDL, Dear IMGUI), each having their own license.
